@@ -13,3 +13,9 @@ svg {
 .greyish-blue {
     background-color: #3479B5;
 }
+
+.greyish-blue:hover {
+    color: #3479B5 !important;
+    border: 1px solid #3479B5 !important;
+    transition: all 400ms;
+}
